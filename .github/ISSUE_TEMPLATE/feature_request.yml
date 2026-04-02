@@ -25,12 +25,6 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives Considered
-      description: Describe any alternative solutions or features you've considered.
-
   - type: dropdown
     id: component
     attributes:
@@ -47,16 +41,6 @@ body:
         - New Component
     validations:
       required: true
-
-  - type: dropdown
-    id: scope
-    attributes:
-      label: Scope
-      description: How large is this change?
-      options:
-        - Small – Single component, few files
-        - Medium – Multiple components, new endpoint or view
-        - Large – Architecture change, new subsystem
 
   - type: textarea
     id: context

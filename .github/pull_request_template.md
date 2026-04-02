@@ -1,6 +1,6 @@
 ## Description
 
-<!-- What does this PR do? Why is it needed? -->
+<!-- What does this PR do? Why is it needed? Please link the related Issues-->
 
 ## Type of Change
 
@@ -10,18 +10,6 @@
 - [ ] 📝 Documentation update
 - [ ] 🔧 Refactoring (no functional changes)
 - [ ] 🏗️ Infrastructure / CI / Helm
-
-## Component(s) Affected
-
-<!-- Need update when project progresses -->
-
-- [ ] ...
-- [ ] Helm Chart
-- [ ] Documentation
-
-## Related Issues
-
-<!-- Link related issues: Fixes #123, Relates to #456 -->
 
 ## How Has This Been Tested?
 
@@ -47,7 +35,7 @@
 
 
 -->
+<!-- Add screenshots for UI changes.
 
 ## Screenshots (if applicable)
-
-<!-- Add screenshots for UI changes. -->
+-->
